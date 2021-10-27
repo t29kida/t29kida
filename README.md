@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t29kida)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t29kida&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 - 👋 Hi, I’m @t29kida
